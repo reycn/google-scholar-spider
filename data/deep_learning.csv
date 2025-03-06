@@ -1,0 +1,57 @@
+Rank,Author,Title,Citations,Year,Publisher,Venue,describe,Source,cit/year
+10,"LeCun, Y Bengio, G Hinton",Deep learning,91877,2015, nature.com, nature,"Deep learning allows computational models that are composed of multiple processing 
+layers to learn … Deep learning discovers intricate structure in large data sets by using the",https://www.nature.com/articles/nature14539,8352
+20,"Goodfellow, Y Bengio, A Courville, Y Bengio",Deep learning,73752,2016, synapse.koreamed.org,,"ang Gi Kim https://doi. org/10.4258/hir. 2016.22. 4.351 ing those who are beginning their 
+careers in deep learning and artificial intelligence research. The other target audience",https://synapse.koreamed.org/pdf/10.4258/hir.2016.22.4.351,7375
+120,"Janiesch, P Zschech, K Heinrich",Machine learning and deep learning,2811,2021, Springer, Electronic markets,"Machine learning describes the capacity of systems to learn … Deep learning is a machine 
+learning concept based on … , deep learning models outperform shallow machine learning",https://link.springer.com/article/10.1007/s12525-021-00475-2,562
+110,"Deng, D Yu",Deep learning: methods and applications,6175,2014, nowpublishers.com, Foundations and trends® in signal processing,"This was accomplished using a special form of the deep neural net, … of deep learning in 
+ASR, this book also provides an overview of a sweeping range of upt",https://www.nowpublishers.com/article/Details/SIG-039,515
+190,"Kamilaris, FX Prenafet",Deep learning in agriculture: A survey,4032,2018, Elsevier, Computers and electronics in agriculture,"employ deep learning … deep learning with other existing popular techniques, in respect to 
+differences in classification or regression performance. Our findings indicate that deep learning",https://www.sciencedirect.com/science/article/pii/S0168169917308803,504
+70,"Guo, Y Liu, A Oerlemans, S Lao, S Wu, MS Lew",Deep learning for visual understanding: A review,2921,2016, Elsevier, Neurocomputing,"In Section 3, we describe the achievements of deep learning schemes in various computer 
+vision applications, ie image classification, object detection, image retrieval, semantic",https://www.sciencedirect.com/science/article/pii/S0925231215017634,292
+300,"Gulli, S Pal",Deep learning with Keras,2331,2017, books.google.com,,", machine learning, and distributed processing. He is currently working on image classification 
+and similarity using deep learning … This was an incredible opportunity and a great learning",https://books.google.com/books?hl=en&lr=&id=20EwDwAAQBAJ&oi=fnd&pg=PP1&dq=deep+learning&ots=lJcw6lbRT6&sig=4yi8kky8n2qPSY-4SaecXdX9Tz4,259
+30,"Bengio, I Goodfellow, A Courville",Deep learning,2272,2017, academia.edu,,"The idea of learning the right representation for the data provides one perspective on deep 
+learning. Another perspective on deep learning is that it allows the computer to learn a mult",https://www.academia.edu/download/62266271/Deep_Learning20200303-80130-1s42zvt.pdf,252
+270,"Bengio, Y Lecun, G Hinton",Deep learning for AI,772,2021, dl.acm.org, Communications of the ACM,"We reviewed the basic concepts and some of the breakthrough achievements of deep 
+learning several years ago.Here we briefly describe the origins of deep learning, describe a few",https://dl.acm.org/doi/abs/10.1145/3448250,154
+150," Shinde, S Shah",A review of machine learning and deep learning applications,1096,2018, ieeexplore.ieee.org, 2018 Fourth international conference on …,"So far few applications of deep learning … deep learning. A review of these past and future 
+application domains, su",https://ieeexplore.ieee.org/abstract/document/8697857/,137
+290,"Denil, B Shakibi, L Dinh…",Predicting parameters in deep learning,1687,2013, proceedings.neurips.cc, Advances in neural …,"significant redundancy in the parameterization of several deep learning models. Given only 
+a few … We train several different architectures by learning only a small number of weights and",https://proceedings.neurips.cc/paper/2013/hash/7fec306d1e665bc9c748b5d2b99a6e97-Abstract.html,130
+100," Yan, B Yoshua, H Geoffrey",Deep learning,1132,2015, udrc.eng.ed.ac.uk, nature,From shallow to deep … From shallow to deep … From shallow to deep,http://udrc.eng.ed.ac.uk/sites/udrc.eng.ed.ac.uk/files/attachments/Deep%20Learning%20and%20its%20application%20to%20CV%20and%20NLP_0.pdf,103
+170,Kim,Matlab deep learning,917,2017, Springer, With machine learning  neural networks and artificial …,"The fact that Deep Learning is a type of Machine Learning is very important, and that is why 
+we … Learning before discussing the concept of Deep Learning. What Is Machine Learning?",https://link.springer.com/content/pdf/10.1007/978-1-4842-2845-6.pdf,102
+220,D Prince,Understanding deep learning,279,2023, books.google.com,,"to this field understand the principles behind deep learning. The book is neither terribly … 
+deep learning to novel situations where there is no existing recipe for success. Machine learning",https://books.google.com/books?hl=en&lr=&id=rvyxEAAAQBAJ&oi=fnd&pg=PR13&dq=deep+learning&ots=1i9fuX0fSP&sig=_zghpYSou3ALWl0qdweVJVa2M_Y,93
+60,"Mathew, P Amudha, S Sivakumari",Deep learning techniques: an overview,451,2021, Springer, Advanced Machine Learning …,"of deep learning, various approaches to deep learning, architectures of deep learning, … 
+the performance of traditional machine learning algorithms and deep learning algorithms [6",https://link.springer.com/chapter/10.1007/978-981-15-3383-9_54,90
+40, Kelleher,Deep learning,627,2019, books.google.com,,a deep learning system… deep learning enables dat,https://books.google.com/books?hl=en&lr=&id=ZU6qDwAAQBAJ&oi=fnd&pg=PR5&dq=deep+learning&ots=XWx3EGSEa7&sig=p2SYkrsplN3VYvywk_hMGzzdrfQ,90
+130,Heaton,"Ian goodfellow, yoshua bengio, and aaron courville: Deep learning: The mit press, 2016, 800 pp, isbn: 0262035618",707,2018, Springer, Genetic programming and evolvable machines,Deep learning’s application to diverse cases ranging from sel,https://link.springer.com/article/10.1007/s10710-017-9314-z,88
+180, Sejnowski,The deep learning revolution,548,2018, books.google.com,,"deep learning and the background needed to understand its origins; part II explains learning 
+… ; and part III explores the impact that deep learning is having on our lives and what impact it",https://books.google.com/books?hl=en&lr=&id=9xZxDwAAQBAJ&oi=fnd&pg=PR7&dq=deep+learning&ots=SIOaO5oyWd&sig=lK7iHSPqVwi4UXo3Do55cYXlgqY,68
+140,"Du, Y Cai, S Wang, L Zhang",Overview of deep learning,436,2016, ieeexplore.ieee.org, 2016 31st Youth Academic …,"Therefore, we can find out that deep learning approaches have reduced the demands for … 
+several typical deep learning models in Section III and several deep learning frameworNs in",https://ieeexplore.ieee.org/abstract/document/7804882/,44
+210,"Howard, S Gugger",Deep Learning for Coders with fastai and PyTorch,265,2020, books.google.com,,"As artificial intelligence has moved into the era of deep learning, it behooves all of us to 
+learn as much as possible about how it works. Deep Learning for Coders provides a terrific way",https://books.google.com/books?hl=en&lr=&id=yATuDwAAQBAJ&oi=fnd&pg=PP1&dq=deep+learning&ots=NLntkv-G-I&sig=qDjdMv5CuvtIQda0rBazSGLJAJE,44
+90,"Hao, G Zhang, S Ma",Deep learning,360,2016, World Scientific, International Journal of Semantic …,ep learning is a branch of machine learning that tries to model hig,https://www.worldscientific.com/doi/abs/10.1142/S1793351X16500045,36
+50,Rusk,Deep learning,344,2016, nature.com, Nature Methods,"Deep learning does not depend on prior data processing and automatically extracts features… 
+example, a deep neural network tasked with interpreting shapes would learn to recognize",https://www.nature.com/articles/nmeth.3707.,34
+250,"Khan, B Jan, H Farman, J Ahmad, H Farman…",Deep learning methods and applications,201,2019, Springer, Deep learning …,"deep learning paradigm, their intricate details, and their applications in various fields. Deep 
+learning … learning algorithms. It has made it possible as well as practical to integrate machine",https://link.springer.com/chapter/10.1007/978-981-13-3459-7_3,29
+80,Schmidhuber,Deep learning,207,2015, scholarpedia.org, Scholarpedia,", may learn to solve problems of potentially unlimited depth, for example, by learning to store 
+in … Some NNs can quickly learn to solve certain deep but simple problems through random",http://www.scholarpedia.org/article/Deep_Learning,19
+230, Trask,Grokking deep learning,126,2019, books.google.com,,"barrier to entry to the practice of deep learning. You don’t just … ’ll even learn about moreadvanced 
+deep learning concepts … deep learning so that you can master a major deep learning",https://books.google.com/books?hl=en&lr=&id=0zczEAAAQBAJ&oi=fnd&pg=PT34&dq=deep+learning&ots=-lBhZUlHBN&sig=cstsYzcm6PZYGB_MsXYSY1UNXNU,18
+200,"Nikolenko, A Kadurin, E Arkhangelskaya",Deep learning,145,2018, logic.pdmi.ras.ru, SPb.: Peter,"Aaaand... that’s it! We can now take the gradients of any complicated composition of 
+simple functions.• Which is all we need to apply gradient descent!• The libraries–theano,",https://logic.pdmi.ras.ru/~sergey/teaching/mlharbour17/18-dl-regularization.pdf,18
+280, Kim,Book review: Deep learning,165,2016, synapse.koreamed.org, Healthcare informatics research,"The hierarchy of concepts allows the computer to learn complicated concepts by building … 
+be many layers deep. This book introduces a broad range of topics in relation to deep learning.",https://synapse.koreamed.org/articles/1075818,16
+260," Smith, SA Colby",Teaching for deep learning,265,2007, Taylor & Francis, The clearing house: A journal of educational …,"a definition of surface and deep learning and describe the structure of the observed learning 
+outcome taxonomy, which was used to evaluate depth of learning. The authors also provide",https://www.tandfonline.com/doi/abs/10.3200/TCHS.80.5.205-210,14
+240, Lauzon,An introduction to deep learning,176,2012, ieeexplore.ieee.org, 2012 11th international conference on information …,"Besides briefly introducing deep learning, the main contribution of this … , deep learning 
+along with the theory behind SdA were briefly introduced. Test result shows that a deep learning",https://ieeexplore.ieee.org/abstract/document/6310529/,13
+160,"Hinton, Y LeCun, Y Bengio",Deep learning,143,2015, helper.ipam.ucla.edu, Nature,"A breakthrough that makes deep learning efficient • To learn deep nets efficiently, we need 
+to learn one layer of features at a time. This does not work well if we assume that the latent",http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10596.pdf,13
