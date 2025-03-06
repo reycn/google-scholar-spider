@@ -1,45 +1,26 @@
 # Google Scholar Spider Documentation
 
-Google Scholar Spider是一个基于Python的工具，根据给定的关键字检索Google Scholar上发表的文章数据。它允许用户将结果保存为CSV文件，绘制结果，并通过年份和引用次数过滤结果。
-
-## News
-
-本仓库是2023年在训练学术大模型的时候，顺手写的谷歌学术爬虫，之后这个项目基本搁置了，但爬虫的价值还是很大的，如果有人有相关意向或者想对本仓库进行大翻新，可以联系我微信:db277500。
-
-另外最近在做出海的AI SaaS产品，建了一个小的交流群，欢迎加入
-
-![](https://raw.githubusercontent.com/JessyTsu1/JessyTsu1/main/images/AI_saas_group.jpg)
+Google Scholar Spider is a Python-based tool that retrieves data on articles published on Google Scholar based on given keywords. It allows users to save results as CSV files, plot results, and filter results by year and citation count.
 
 ## Usage
 
-可以通过运行命令行中的`google_scholar_spider`函数并传递任何所需的参数来使用Google Scholar Spider。可用的参数包括：
+The Google Scholar Spider can be used by running the `google_scholar_spider` function from the command line and passing in any required parameters.Available parameters include: 
 
---**kw** <keyword> (default "machine learning") 要搜索的关键字。
-
---**nresults** <number of results> (default 50) 要在Google Scholar上搜索的文章数。
-
---**notsavecsv** 使用此标志以不保存结果到CSV文件的方式打印结果。
-
---**csvpath** <path> 要保存导出的CSV文件的路径。默认为当前文件夹。
-
---**sortby** <column> (default "Citations") 按列排序数据。如果要按每年引用次数排序，请使用--sortby "cit/year"。
-
---**plotresults** 使用此标志以原始排名在x轴上，引用次数在y轴上绘制结果。
-
---**startyear** <year> 搜索文章的起始年份。
-
---**endyear** <year> (default current year) 搜索文章的结束年份。
-
---**debug** 使用此标志启用调试模式。调试模式用于单元测试并将页面存储在网络档案库中。
-
-## Examples
+- \*\*kw &lt;keyword&gt; (default "machine learning") The keyword to search for. 
+- \*\*nresults &lt;number of results&gt; (default 50) The number of articles to be searched on Google Scholar. --\*\*notsavecsv Use this flag to print results without saving them to a CSV file. 
+- \*\*csvpath &lt;path&gt; The path to save the exported CSV file. Defaults to the current folder. 
+- \*\*sortby &lt;column&gt; (default "Citations") Sorts data by column. To sort by citations per year, use -- sortby "cit/year". 
+- \*\*plotresults Use this flag to plot results with raw rankings on the x-axis and citation counts on the y-axis. 
+- \*\*startyear &lt;year&gt; The starting year of the search article. 
+- \*\*endyear &lt;year&gt; (default current year) The end year of the search article. 
+- \*\*debug Use this flag to enable debug mode. Debug mode is used for unit testing and storing pages in the web archive.Examples
 
 ```
 python google_scholar_spider.py --kw "deep learning" --nresults 30 --csvpath "./data" --sortby "cit/year" --plotresults 1
 ```
 
-此命令在Google Scholar上搜索与“deep learning”相关的文章，检索30个结果，将结果保存到“./data”文件夹中的CSV文件中，按每年引用次数排序数据，并绘制结果。
+This command searches Google Scholar for articles related to "deep learning", retrieves 30 results, saves the results to a CSV file in the ". /data" folder, sorts the data by the number of citations per year, and plots the results.
 
 ## License
 
-Google Scholar Spider根据MIT许可证发布。
+Google Scholar Spider is released under the MIT license.
