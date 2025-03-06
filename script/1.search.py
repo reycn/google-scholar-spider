@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 import matplotlib.font_manager as fm
 
-fm._rebuild()
+# Fix font issue
 plt.rcParams["font.family"] = "DejaVu Sans"
 plt.rcParams["font.sans-serif"] = ["SimHei"]  # for Chinese characters
 
@@ -37,7 +37,7 @@ class GoogleScholarConfig:
     keyword: str = "machine learning"
     nresults: int = 50
     save_csv: bool = True
-    csvpath: str = "."
+    csvpath: str = "./data"
     sortby: str = "Citations"
     plot_results: bool = False
     start_year: Optional[int] = None
